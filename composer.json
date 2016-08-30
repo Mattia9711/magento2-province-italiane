@@ -1,5 +1,5 @@
 {
-  "name": "Mattia9711/magento2-province-italiane",
+  "name": "vmasciotta/magento2-province-italiane",
   "description": "Modulo per l'installazione delle province italiane in Magento2",
   "authors": [
     {
@@ -21,7 +21,7 @@
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "Mattia1997\\ProvinceItaliane\\": ""
+      "Vmasciotta\\ProvinceItaliane\\": ""
     }
   }
 }
